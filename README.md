@@ -29,7 +29,7 @@
 - **Phòng Ngừa:**
   - Cung cấp biện pháp phòng ngừa cho những người chưa bị ảnh hưởng, giúp họ xây dựng sự thoải mái và tự tin khi sử dụng điện thoại.
 
-## Cấu Trúc Cơ Bản
+###
 
 ### Tính Năng Chính
 
@@ -65,6 +65,8 @@
 
 ### Phản Hồi và Đánh Giá
    - Phản Hồi Cuộc Gọi: Người dùng có thể gửi phản hồi và nhận đánh giá để cải thiện kỹ năng giao tiếp và giảm stress.
+
+###
 
 ### Nguồn Doanh Thu và Lợi Nhuận
 1. **Mô hình Freemium:**
