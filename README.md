@@ -21,7 +21,7 @@
   
 ###
 
-## Mục Tiêu Dự Án
+# Mục Tiêu Dự Án
 - **Thay Đổi Hành Vi Người Dùng:**
   - Giúp những người đang gặp phải hội chứng "Telephobia" thoát khỏi nỗi ám ảnh này.
   - Đưa ra bài tập giảm stress để họ có thể dần dần quen với việc sử dụng điện thoại.
@@ -31,7 +31,7 @@
 
 ###
 
-### Tính Năng Chính
+# Tính Năng Chính
 
 1. **Hướng Dẫn Giảm Stress:**
    - Video và Hướng Dẫn: Cung cấp video và hướng dẫn về cách giảm căng thẳng khi sử dụng điện thoại.
@@ -49,7 +49,7 @@
    - Thách Thức Hàng Ngày: Tạo ra các thử thách ngắn hạn để tạo động lực và tăng tương tác trong cộng đồng.
    - Bảng Xếp Hạng: Hiển thị bảng xếp hạng để tạo cạnh tranh lành mạnh.
 
-### Tích Hợp Thử Thách
+# Tích Hợp Thử Thách
 
 1. **Trang Thử Thách:**
    - Danh Sách Thử Thách: Hiển thị các thử thách với mô tả và mức độ khó.
@@ -63,12 +63,12 @@
    - Cuộc Gọi Giả Định: Mô phỏng cuộc gọi với các tình huống và kịch bản xây dựng trước.
    - Hỗ Trợ Tâm Lý: Cung cấp hướng dẫn và giải pháp khi người dùng gặp khó khăn.
 
-### Phản Hồi và Đánh Giá
+# Phản Hồi và Đánh Giá
    - Phản Hồi Cuộc Gọi: Người dùng có thể gửi phản hồi và nhận đánh giá để cải thiện kỹ năng giao tiếp và giảm stress.
 
 ###
 
-### Nguồn Doanh Thu và Lợi Nhuận
+# Nguồn Doanh Thu và Lợi Nhuận
 1. **Mô hình Freemium:**
    - Cung cấp một phiên bản cơ bản hoàn toàn miễn phí của ứng dụng với các tính năng cơ bản. Đồng thời, bạn có thể tạo ra các phiên bản cao cấp hoặc tính năng đặc biệt mà người dùng có thể mua để nâng cấp trải nghiệm của họ.
      
