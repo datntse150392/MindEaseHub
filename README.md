@@ -1,5 +1,26 @@
 # MindEaseHub
 
+# Lý do ra đời dự án ?
+1. **Đáp Ứng Vấn Đề Tâm Lý Hiện Hữu:**
+   - Telephobia là một vấn đề ngày càng trở nên phổ biến trong xã hội hiện đại, khi mà sự liên tục kết nối thông qua điện thoại di động có thể tạo ra áp lực tâm lý đáng kể. MindEaseHub ra đời để giúp những người gặp phải Telephobia vượt qua và xây dựng mối quan hệ tích cực với công nghệ.
+     
+2. **Giảm Stress và Cải Thiện Tâm Lý:**
+   - Cuộc sống ngày nay thường xuyên gặp căng thẳng, và việc sử dụng điện thoại có thể làm tăng lên vấn đề này. MindEaseHub cung cấp không gian giảm stress và bài tập tâm lý để người dùng có thể thư giãn và tìm kiếm sự an tâm.
+
+3. **Phòng Ngừa Tâm Lý:**
+   - Dự án không chỉ tập trung vào những người đang gặp vấn đề mà còn hướng đến việc phòng ngừa. Bằng cách cung cấp thông tin về tác động của sử dụng điện thoại đối với tâm lý, MindEaseHub giúp xây dựng nhận thức và thói quen tích cực từ đầu.
+
+4. **Hỗ Trợ Cộng Đồng Tâm Lý:**
+   - MindEaseHub không chỉ là một ứng dụng, mà còn là một cộng đồng nơi mọi người có thể chia sẻ kinh nghiệm và hỗ trợ nhau. Sự tương tác trong cộng đồng có thể cung cấp sự động viên và sự hiểu biết từ người có cùng trải nghiệm.
+  
+5. **Giáo Dục và Nâng Cao Nhận Thức:**
+   - Dự án không chỉ tập trung vào việc giải quyết vấn đề mà còn muốn nâng cao nhận thức. Việc cung cấp thông tin y tế, hướng dẫn và liên kết đến chuyên gia giúp người dùng hiểu rõ hơn về tác động của công nghệ đối với tâm lý và sức khỏe.
+  
+6. **Tạo Ra Một Trải Nghiệm Thực Tế Hơn:**
+   - Mô phỏng cuộc gọi điện thoại và cung cấp các thử thách giúp người dùng trải nghiệm thực tế hơn. Điều này giúp họ chuẩn bị tâm lý và phản kháng hiệu quả hơn trước các tình huống gọi điện thoại khó khăn.
+  
+###
+
 ## Mục Tiêu Dự Án
 - **Thay Đổi Hành Vi Người Dùng:**
   - Giúp những người đang gặp phải hội chứng "Telephobia" thoát khỏi nỗi ám ảnh này.
