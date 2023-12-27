@@ -1,4 +1,5 @@
 # MindEaseHub
+- Kết hợp từ "Mind" (tâm trí) và "Ease" (dễ dàng), tạo ra một không gian trực tuyến dễ dàng và thoải mái cho tâm trí.
 
 # Lý do ra đời dự án ?
 1. **Đáp Ứng Vấn Đề Tâm Lý Hiện Hữu:**
